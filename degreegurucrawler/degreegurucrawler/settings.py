@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "degreegurucrawler"
+BOT_NAME = "IsopodTechGPT"
 
 SPIDER_MODULES = ["degreegurucrawler.spiders"]
 NEWSPIDER_MODULE = "degreegurucrawler.spiders"
