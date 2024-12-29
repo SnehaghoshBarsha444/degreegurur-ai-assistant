@@ -22,9 +22,9 @@ export default function Home() {
         {
           id: "0",
           role: "system",
-          content: `**Welcome to DegreeGuru**
+          content: `**Welcome to IsopodTechGPT**
 
-Your ultimate companion in navigating the academic landscape of Stanford.`,
+Your Ultimate Companion .`,
         },
       ],
       onResponse: () => {
